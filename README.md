@@ -697,7 +697,8 @@ mulmap_1.swap(mulmap_2); // mulmap_1 contains {1,2}, {3,6}, {3,4} and mulmap_2 c
 ```
 
 ### Unordered Set
-An unordered set contains unique elements with no particular order and allows faster access. 
+An unordered set contains unique elements with no particular order and allows faster access. Use it when you need fast find, erase, insert. <br>
+https://www.geeksforgeeks.org/set-vs-unordered_set-c-stl/
 
 **Design:** Implemented as hash map.
 
